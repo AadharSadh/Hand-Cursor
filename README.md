@@ -37,10 +37,11 @@ hand-cursor-project/
 1. Clone or download the repository  
 
 2. Install dependencies:
+```bash
+pip install ultralytics opencv-python pyautogui torch torchvision
+```
 
-
-
-3. Run the project:
+4. Run the project:
 
 ```bash
 python main.py
